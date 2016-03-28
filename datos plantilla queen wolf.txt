@@ -1,0 +1,11 @@
+Datos plantilla Queen Wolf
+
+<center><a href="http://bosquedeinvierno.blogspot.com/"><img src="https://dl.dropboxusercontent.com/u/75579340/Blog/Plantillas/BosqueInvierno/wolfqueen_3.png" width="240px" /></a></center>
+
+
+<center>Plantilla "Wolf Queen" © <a href="http://librosymisterios.blogspot.com/">Bárbara, de Libros y misterios</a>
+<br />
+Imagen de la cabecera © <a href="http://danne-b.blogspot.com/">Dan Burgess</a>
+</center>
+
+<a style="display:scroll;position:fixed;bottom:5px;right:5px;" href="#" title="Subir arriba"><img src="https://dl.dropboxusercontent.com/u/75579340/Blog/Plantillas/BosqueInvierno/flecha-subir.png" height="70px" /></a>
